@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ys4fkh1f4-go-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/ys4fkh1f4-go-gitops
